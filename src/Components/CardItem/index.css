@@ -1,0 +1,24 @@
+.list-item {
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+  margin: 10px;
+}
+
+.card-images {
+  width: 100%;
+  height: 150px;
+}
+
+.text-bg-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-container {
+  display: flex;
+  flex-direction: column;
+}
